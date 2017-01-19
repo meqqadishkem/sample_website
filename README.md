@@ -1,0 +1,3 @@
+<MTMarkdownOptions output='html5'>
+    ... put your entry content here ...
+</MTMarkdownOptions>
